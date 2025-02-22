@@ -91,3 +91,4 @@ $(document).ready(function () {
   const currentYear = new Date().getFullYear();
   // Set the current year in the span with id "year"
   document.getElementById('year').textContent = currentYear;
+
